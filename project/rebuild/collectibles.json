@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Automate the Boring Stuff",
+    "url": "https://automatetheboringstuff.com/",
+    "category": "Books",
+    "description": "Free online book about Python automation projects.",
+    "favorite": true,
+    "tags": [
+      "python",
+      "automation",
+      "book"
+    ],
+    "date_added": "2026-05-21"
+  },
+  {
+    "name": "CS50 Lecture 1",
+    "url": "https://www.youtube.com/watch?v=YoXxevp19Q0",
+    "category": "Videos",
+    "description": "Harvard's intro to computer science, first lecture.",
+    "favorite": true,
+    "tags": [
+      "cs50",
+      "harvard",
+      "intro"
+    ],
+    "date_added": "2026-05-20"
+  },
+  {
+    "name": "How Python Lists Work",
+    "url": "https://realpython.com/python-lists-tuples/",
+    "category": "Articles",
+    "description": "A beginner-friendly guide to Python lists and tuples.",
+    "favorite": true,
+    "tags": [
+      "python",
+      "beginner",
+      "lists"
+    ],
+    "date_added": "2026-05-20"
+  },
+  {
+    "name": "GitHub Student Developer Pack",
+    "url": "https://education.github.com/pack",
+    "category": "Other",
+    "description": "Free tools and resources for students.",
+    "favorite": false,
+    "tags": [
+      "github",
+      "tools",
+      "free"
+    ],
+    "date_added": "2026-05-23"
+  },
+  {
+    "name": "Python Crash Course",
+    "url": "https://nostarch.com/python-crash-course-3rd-edition",
+    "category": "Books",
+    "description": "A hands-on, project-based introduction to Python.",
+    "favorite": false,
+    "tags": [
+      "python",
+      "book",
+      "projects"
+    ],
+    "date_added": "2026-05-22"
+  },
+  {
+    "name": "Python Tutorial for Beginners",
+    "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+    "category": "Videos",
+    "description": "Full Python course in one video.",
+    "favorite": false,
+    "tags": [
+      "python",
+      "tutorial",
+      "beginner"
+    ],
+    "date_added": "2026-05-21"
+  },
+  {
+    "name": "Understanding JSON in Python",
+    "url": "https://docs.python.org/3/library/json.html",
+    "category": "Articles",
+    "description": "Official Python docs for the json module.",
+    "favorite": false,
+    "tags": [
+      "python",
+      "json",
+      "docs"
+    ],
+    "date_added": "2026-05-20"
+  }
+]
